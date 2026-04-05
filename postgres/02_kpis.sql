@@ -1,4 +1,4 @@
--- Portfolio KPIs (matches a “dashboard headline” block).
+-- Portfolio KPIs
 
 SELECT
     COUNT(*) AS client_count,
