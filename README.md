@@ -57,14 +57,14 @@ chmod +x scripts/*.sh
 Run a specific query:
 sqlite3 -header -column data/raj_electronics.db < sql/02_kpis.sql
 
-** 📊 Key Analyses**
+📊 Key Analyses
 	•	Overall KPIs (sales, collections, outstanding due)
 	•	Team-wise performance
 	•	Top clients by pending dues
 	•	Region-wise exposure
 	•	Due segmentation using buckets (low / medium / high risk)
 
-  raj-electronics-sql/
+raj-electronics-sql/
 │
 ├── data/clients.csv        # cleaned dataset
 ├── sql/                    # SQLite queries
