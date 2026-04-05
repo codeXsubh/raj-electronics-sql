@@ -1,4 +1,4 @@
--- Sales & collection by sales team (anonymized team_code).
+-- Sales & collection by sales team 
 
 SELECT
     team_code,
