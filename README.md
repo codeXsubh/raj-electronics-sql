@@ -55,7 +55,7 @@ chmod +x scripts/*.sh
 ```
 
 Run a specific query:
-```bashsqlite3 -header -column data/raj_electronics.db < sql/02_kpis.sql```
+sqlite3 -header -column data/raj_electronics.db < sql/02_kpis.sql
 
 ** 📊 Key Analyses**
 	•	Overall KPIs (sales, collections, outstanding due)
