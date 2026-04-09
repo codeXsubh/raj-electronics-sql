@@ -1,4 +1,4 @@
-# Raj Electronics — SQL Analytics (Anonymized)
+# SQL Analytics (Anonymized)
 
 SQL-based analysis of **accounts receivable** for a wholesale business — focusing on **sales, collections, and outstanding dues** across teams and regions.
 
